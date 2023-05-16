@@ -19,14 +19,12 @@ Python 3.x
 Usage
 Clone or download the repository.
 
-## Open a terminal or command prompt and navigate to the project directory.
-
 # Run the following command to start the game:
-
+Open a terminal or command prompt and navigate to the project directory.
 Copy code
 python ```choose_own_adventure.py```
 Contributions
 Contributions to the game are welcome! If you find any issues or have suggestions for improvements, please feel free to create a pull request.
 
-### License
+## License
 This project is licensed under the MIT License. Feel free to modify and distribute the code as needed.
